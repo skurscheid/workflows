@@ -1,3 +1,6 @@
 [submodule "breast_cancer_nucleome"]
 	path = breast_cancer_nucleome
 	url = git@github.com:skurscheid/breast_cancer_nucleome.git
+[submodule "hl_atac_seq"]
+	path = hl_atac_seq
+	url = git@github.com:skurscheid/hl_atac_seq.git
