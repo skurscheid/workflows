@@ -4,3 +4,6 @@
 [submodule "hl_atac_seq"]
 	path = hl_atac_seq
 	url = git@github.com:skurscheid/hl_atac_seq.git
+[submodule "cellcycle_workflow"]
+	path = cellcycle_workflow
+	url = git@github.com:skurscheid/cellcycle_workflow.git
