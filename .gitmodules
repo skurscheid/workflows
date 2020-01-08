@@ -7,3 +7,6 @@
 [submodule "cellcycle_workflow"]
 	path = cellcycle_workflow
 	url = git@github.com:skurscheid/cellcycle_workflow.git
+[submodule "mcf10a_xenografts"]
+	path = mcf10a_xenografts
+	url = https://github.com/skurscheid/mcf10a_xenografts
