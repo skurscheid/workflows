@@ -10,3 +10,6 @@
 [submodule "mcf10a_xenografts"]
 	path = mcf10a_xenografts
 	url = https://github.com/skurscheid/mcf10a_xenografts
+[submodule "cellular_identity_nucleome"]
+	path = cellular_identity_nucleome
+	url = git@github.com:skurscheid/cellular_identity_nucleome.git
